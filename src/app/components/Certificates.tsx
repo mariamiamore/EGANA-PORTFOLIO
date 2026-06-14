@@ -51,7 +51,7 @@ const certificates = [
 
 export function Certificates() {
   return (
-    <section id="certificates" style={{ backgroundColor: "#111111", paddingTop: "4rem", paddingBottom: "rem" }}>
+    <section id="certificates" style={{ backgroundColor: "#111111", paddingTop: "4rem", paddingBottom: "4rem" }}>
       <div className="max-w-6xl mx-auto px-6">
         <div className="flex items-center gap-6 mb-16">
           <div style={{ fontFamily: "'Barlow Condensed', sans-serif", fontWeight: 700, fontSize: "0.7rem", letterSpacing: "0.2em", color: "#d4440f" }}>03 — CREDENTIALS</div>
