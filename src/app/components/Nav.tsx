@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-const navLinks = ["About", "Projects", "CAD", "Certificates", "Skills", "Contact"];
+const navLinks = ["About", "Projects", "Certificates", "CAD", "Skills", "Contact"];
 
 export function Nav() {
   const [scrolled, setScrolled] = useState(false);
